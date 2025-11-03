@@ -4,14 +4,14 @@
 ---
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Chayma68&theme=radical&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=Chayma68&theme=transparent&margin-w=10&margin-h=10)
 
 ---
 
 ### 🚀 About Me
 
 - 💡 I’m driven by the art and logic of **Software Engineering** — turning ideas into reliable, elegant, and efficient systems.  
-- 🧠 I love exploring new concepts, frameworks, and architectures to grow as a software engineer every day.  
+- 🧠 I love exploring new concepts, frameworks, and architectures to grow as a developer every day.  
 - ⚙️ I enjoy designing clean, maintainable code and constantly learning better ways to write it.  
 - 💬 Ask me about **Java**, **Spring Boot**, **Software Design Patterns**, and **backend development**.  
 - 🌱 Currently deepening my skills in **system design**, **architecture**, and **clean code principles**.  
@@ -38,12 +38,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chayma68&show_icons=true&theme=radical" alt="Chayma's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayma68&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chayma68&show_icons=true&theme=transparent" alt="Chayma's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayma68&theme=transparent" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayma68&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayma68&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
   <a href="mailto:chayma.chliyah@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/chayma-chliyah?tab=repositories" target="_blank">
+  <a href="https://github.com/Chayma68?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
