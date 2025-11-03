@@ -1,4 +1,4 @@
-# 👋 Hi there, Welcome to Chayms! 🌸
+# 🍀 Hi there, Welcome to Chayms! 🌸
 <h3 align="center">A passionate Software Engineer who loves building, learning, and solving problems with code 💻</h3>
 
 ---
